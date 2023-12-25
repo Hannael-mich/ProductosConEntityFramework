@@ -1,0 +1,12 @@
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\bin\Debug\DataTienda.dll.config
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\bin\Debug\DataTienda.dll
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\bin\Debug\DataTienda.pdb
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\bin\Debug\EntityFramework.dll
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\bin\Debug\EntityFramework.xml
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\obj\Debug\DataTienda.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\obj\Debug\DataTienda.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\obj\Debug\DataTienda.csproj.CopyComplete
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\obj\Debug\DataTienda.dll
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\DataTienda\obj\Debug\DataTienda.pdb

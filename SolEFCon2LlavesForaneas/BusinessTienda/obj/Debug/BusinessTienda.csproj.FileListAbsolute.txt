@@ -1,0 +1,12 @@
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\bin\Debug\BusinessTienda.dll
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\bin\Debug\BusinessTienda.pdb
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\bin\Debug\DataTienda.dll
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\bin\Debug\EntityFramework.dll
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\bin\Debug\DataTienda.pdb
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\bin\Debug\DataTienda.dll.config
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\bin\Debug\EntityFramework.xml
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\obj\Debug\BusinessTienda.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\obj\Debug\BusinessTienda.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\obj\Debug\BusinessTienda.csproj.CopyComplete
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\obj\Debug\BusinessTienda.dll
+C:\Users\thann\source\repos\SolEFCon2LlavesForaneas\BusinessTienda\obj\Debug\BusinessTienda.pdb

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<DataTienda.EF.Productos>
+
+@{
+    ViewBag.Title = "Consulta";
+}
+
+ <form method="post">
+     <input type="search" name="valor" value="" class="form-control"/>
+     <input type="submit" name="name" value="Buscar" formaction="/Home/Buscar"/>
+ </form>
+<h2>Consulta</h2>
+
+<p>
+    @Html.ActionLink("Nuevo Producto", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaCaducidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Departamentos.NombreD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Marcas.NombreM)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @*Html.DisplayFor(modelItem => item.FechaCaducidad)*@
+            @item.FechaCaducidad.Value.ToString("yyyy/MM/dd")
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Departamentos.NombreD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Marcas.NombreM)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Borrar", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

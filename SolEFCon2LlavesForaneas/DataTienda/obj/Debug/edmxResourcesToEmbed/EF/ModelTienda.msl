@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Generacion23ModelStoreContainer" CdmEntityContainer="Generacion23Entities">
+    <EntitySetMapping Name="Departamentos">
+      <EntityTypeMapping TypeName="Generacion23Model.Departamentos">
+        <MappingFragment StoreEntitySet="Departamentos">
+          <ScalarProperty Name="idD" ColumnName="idD" />
+          <ScalarProperty Name="NombreD" ColumnName="NombreD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Marcas">
+      <EntityTypeMapping TypeName="Generacion23Model.Marcas">
+        <MappingFragment StoreEntitySet="Marcas">
+          <ScalarProperty Name="idM" ColumnName="idM" />
+          <ScalarProperty Name="NombreM" ColumnName="NombreM" />
+          <ScalarProperty Name="Estatus" ColumnName="Estatus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Productos">
+      <EntityTypeMapping TypeName="Generacion23Model.Productos">
+        <MappingFragment StoreEntitySet="Productos">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="FechaCaducidad" ColumnName="FechaCaducidad" />
+          <ScalarProperty Name="Marcaid" ColumnName="Marcaid" />
+          <ScalarProperty Name="Departamentoid" ColumnName="Departamentoid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
